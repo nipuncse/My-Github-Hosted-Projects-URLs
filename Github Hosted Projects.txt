@@ -1,2 +1,3 @@
 API Dictionary - https://nipuncse.github.io/getTheMeaning.github.io/
 Tic Tac Toe -  https://nipuncse.github.io/tictact.github.io/
+DMAS Calculator - https://nipuncse.github.io/JSCalculator.github.io/
